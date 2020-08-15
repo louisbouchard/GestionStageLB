@@ -10,6 +10,7 @@ using GestionStageLB.Models;
 
 namespace GestionStageLB.Controllers
 {
+
     // Et j'aoute celui ci d'un autre poste de travail
     public class HomeController : Controller
     {
