@@ -11,6 +11,7 @@ using GestionStageLB.Models;
 namespace GestionStageLB.Controllers
 {
     // Ajout d'un commentaire
+    // Et j'aoute celui ci d'un autre poste de travail
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
