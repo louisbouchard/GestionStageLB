@@ -16,6 +16,7 @@ namespace GestionStageLB.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            // Mon commentaire
             _logger = logger;
         }
 
