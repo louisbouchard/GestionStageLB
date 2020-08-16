@@ -12,6 +12,7 @@ namespace GestionStageLB.Controllers
 {
     public class HomeController : Controller
     {
+        // Commentaire d'un autre membre de l'équipe
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
