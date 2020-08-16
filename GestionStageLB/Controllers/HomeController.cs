@@ -12,8 +12,6 @@ namespace GestionStageLB.Controllers
 {
     public class HomeController : Controller
     {
-
-    // Mon commentaire fait sur mon autre poste de travail
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
