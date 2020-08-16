@@ -10,7 +10,6 @@ using GestionStageLB.Models;
 
 namespace GestionStageLB.Controllers
 {
-    // Ajout d'un commentaire
     public class HomeController : Controller
     {
 
